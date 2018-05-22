@@ -1,0 +1,1 @@
+make SPHINXOPTS=-v htmldocs 
